@@ -1,4 +1,4 @@
-# Computational Thinking
+# [Computational Thinking](http://moodle.clevelandhighschool.org/mod/page/view.php?id=844)
 
 ### Concepts
 -*Sequence:* Identifying a series of steps for a task  
