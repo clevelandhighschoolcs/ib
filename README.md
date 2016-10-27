@@ -1,5 +1,5 @@
-# [Moodle](http://moodle.clevelandhighschool.org/course/view.php?id=7)
 # chsib
+# [Moodle](http://moodle.clevelandhighschool.org/course/view.php?id=7)
 Cleveland High School 5th Period IB Computer Science Class
 
 #Wireless Networking
