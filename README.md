@@ -1,3 +1,4 @@
+# [Moodle](http://moodle.clevelandhighschool.org/course/view.php?id=7)
 # chsib
 Cleveland High School 5th Period IB Computer Science Class
 
