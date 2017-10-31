@@ -16,7 +16,7 @@
 -*Abstracting and Modularizing:* Exploring connections between the whole and the parts  
 
 ### Perspectives
--*Creating:* Realizing that computation is a medium of creation, "I can create."
--*Connecting:* Recognizing the power of creating with and for others, "I can do different things when I have access to others."
+-*Creating:* Realizing that computation is a medium of creation, "I can create."  
+-*Connecting:* Recognizing the power of creating with and for others, "I can do different things when I have access to others."  
 -*Questioning:* Feeling empowered to ask questions about the world, "I can (use computation to) ask questions to make sense of (computational things in) the world."
 
